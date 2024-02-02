@@ -1,2 +1,2 @@
 # BMI Lite project
-![Salary project screenshot](res/screenshot.png "Screenshot")
+![BMI Lite project screenshot](res/screenshot.png "Screenshot")
