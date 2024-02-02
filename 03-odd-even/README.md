@@ -1,2 +1,2 @@
 # Odd-Even project
-![Salary project screenshot](resources/screenshot.png "Screenshot")
+![Salary project screenshot](res/screenshot.png "Screenshot")
